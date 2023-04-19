@@ -4,4 +4,4 @@
 
 coco.names and yolov3.cfg are gived here.
 
-yolov3.weights can be download by click this link: https://pjreddie.com/media/files/yolov3.weights
+yolov3.weights can be download by clicking this link: https://pjreddie.com/media/files/yolov3.weights
